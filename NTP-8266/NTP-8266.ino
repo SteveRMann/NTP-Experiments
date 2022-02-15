@@ -4,6 +4,8 @@
      ST7735 TFT display.
    This is a free software with NO WARRANTY.
    https://simple-circuit.com/
+   
+   2/14/22 - Added wifi.ino
 
  *************************************************************************/
 
